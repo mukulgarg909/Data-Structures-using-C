@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565381144 source:d:\course\c\printinglistforwardandreverseusingrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+

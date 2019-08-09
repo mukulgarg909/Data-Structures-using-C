@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565360148 source:d:\course\c\insertnodeatnthpos\main.c
+	<stdio.h>
+	<stdlib.h>
+

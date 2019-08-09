@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565366825 source:d:\course\c\deletenodeatnthpos\main.c
+	<stdio.h>
+	<stdlib.h>
+
